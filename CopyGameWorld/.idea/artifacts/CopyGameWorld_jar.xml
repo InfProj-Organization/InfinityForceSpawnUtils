@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CopyGameWorld:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CopyGameWorld_jar</output-path>
+    <root id="archive" name="CopyGameWorld.jar">
+      <element id="module-output" name="CopyGameWorld" />
+    </root>
+  </artifact>
+</component>
